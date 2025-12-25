@@ -73,6 +73,8 @@ python main.py
 
 ## 成果範例
 
+完整搜尋結果請參閱 [found_results.txt](found_results.txt)。
+
 | 原詞 (Input) | 拆解 (Decomp) | 重組 (Regroup) | 結果 (Output) |
 | :--- | :--- | :--- | :--- |
 | **咖啡** | `口力` `口` + `口` `非` | `口力` + `口口` + `非` | **叻吅非** |
